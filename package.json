@@ -1,0 +1,25 @@
+{
+  "name": "node-crash-course",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "lodash": "^4.17.21",
+    "mongodb": "3.0",
+    "type": "module",
+    "mongoose": "^8.8.3",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.3",
+    "node-crash-course": "file:",
+    "nodemon": "^3.1.7"
+  }
+}
